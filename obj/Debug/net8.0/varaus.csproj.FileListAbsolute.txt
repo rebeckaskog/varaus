@@ -1,0 +1,14 @@
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.AssemblyInfoInputs.cache
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.AssemblyInfo.cs
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.csproj.CoreCompileInputs.cache
+/Users/macbook/varaus/bin/Debug/net8.0/varaus
+/Users/macbook/varaus/bin/Debug/net8.0/varaus.deps.json
+/Users/macbook/varaus/bin/Debug/net8.0/varaus.runtimeconfig.json
+/Users/macbook/varaus/bin/Debug/net8.0/varaus.dll
+/Users/macbook/varaus/bin/Debug/net8.0/varaus.pdb
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.dll
+/Users/macbook/varaus/obj/Debug/net8.0/refint/varaus.dll
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.pdb
+/Users/macbook/varaus/obj/Debug/net8.0/varaus.genruntimeconfig.cache
+/Users/macbook/varaus/obj/Debug/net8.0/ref/varaus.dll
